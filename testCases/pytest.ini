@@ -1,0 +1,4 @@
+[pytest]
+markers=
+    sanity
+    regression

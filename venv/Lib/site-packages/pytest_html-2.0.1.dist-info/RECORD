@@ -1,0 +1,17 @@
+pytest_html-2.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pytest_html-2.0.1.dist-info/LICENSE,sha256=K_3KYK34AxCNTH8AkAC-p2rQDmIeFjGXiBsOqukbUw4,193
+pytest_html-2.0.1.dist-info/METADATA,sha256=McCW0dh7ZRoiZPq4p-Sp9iwZuNXKwzVPhYAOFadRjE4,9735
+pytest_html-2.0.1.dist-info/RECORD,,
+pytest_html-2.0.1.dist-info/WHEEL,sha256=8zNYZbwQSXoB9IfXOjPfeNwvAsALAjffgk27FqvCWbo,110
+pytest_html-2.0.1.dist-info/entry_points.txt,sha256=cSCHw61ry3DyGORsUfPit9HkoLrJ6NVUWFnqwxl3-_M,38
+pytest_html-2.0.1.dist-info/top_level.txt,sha256=c_-AA4MeK8keEgsAWYrcVGWXGFwSpqBH3wiQBN2c9yE,12
+pytest_html/__init__.py,sha256=BWtancTsS_Lw_V32sePV6uQICV9fupYUi4QH7hcmcXw,272
+pytest_html/__pycache__/__init__.cpython-36.pyc,,
+pytest_html/__pycache__/extras.cpython-36.pyc,,
+pytest_html/__pycache__/hooks.cpython-36.pyc,,
+pytest_html/__pycache__/plugin.cpython-36.pyc,,
+pytest_html/extras.py,sha256=rTgoUMj80M4EeMsPe3R-Y34kozuGIGustphkuDTIFqo,1347
+pytest_html/hooks.py,sha256=NJufKhr1tLRbFs70YXktiE3hrqaWZ_xu7xm_9GFn6-s,652
+pytest_html/plugin.py,sha256=e3OWslJ5IBR9OOPBAfA6Ng-nga_HUvpR9lud9IRDUlE,20226
+pytest_html/resources/main.js,sha256=7RCjEdePgr3yCg93llW1Z5fawOjvtyOgfEA8wLnz7tY,7187
+pytest_html/resources/style.css,sha256=EqzWcveDlFApIUJbbVrmTXfNGqTQsTBvEwUY8jf1FdE,2619

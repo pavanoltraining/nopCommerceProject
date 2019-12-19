@@ -1,0 +1,203 @@
+12/16/2019 07:24:53 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:24:53 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:24:53 AM: INFO: ****Opening URL****
+12/16/2019 07:24:58 AM: ERROR: **** Home page title test failed****
+12/16/2019 07:25:04 AM: INFO: ****Started Login Test****
+12/16/2019 07:25:16 AM: INFO: ****Login test passed ****
+12/16/2019 07:32:10 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:32:10 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:32:10 AM: INFO: ****Opening URL****
+12/16/2019 07:32:14 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:32:20 AM: INFO: ****Started Login Test****
+12/16/2019 07:32:29 AM: INFO: ****Login test passed ****
+12/16/2019 07:33:18 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:33:18 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:33:18 AM: INFO: ****Opening URL****
+12/16/2019 07:33:22 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:33:33 AM: INFO: ****Started Login Test****
+12/16/2019 07:33:44 AM: INFO: ****Login test passed ****
+12/16/2019 07:34:59 AM: INFO: ****Started Login Test****
+12/16/2019 07:35:02 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:35:02 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:35:02 AM: INFO: ****Opening URL****
+12/16/2019 07:35:06 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:35:14 AM: INFO: ****Login test passed ****
+12/16/2019 07:35:31 AM: INFO: ****Started Login Test****
+12/16/2019 07:35:31 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:35:31 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:35:31 AM: INFO: ****Opening URL****
+12/16/2019 07:35:33 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:35:42 AM: INFO: ****Login test passed ****
+12/16/2019 07:39:21 AM: INFO: ****Started Login Test****
+12/16/2019 07:39:22 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:39:22 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:39:22 AM: INFO: ****Opening URL****
+12/16/2019 07:39:27 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:39:33 AM: INFO: ****Login test passed ****
+12/16/2019 07:40:50 AM: INFO: *************** Test_001_Login *****************
+12/16/2019 07:40:50 AM: INFO: ****Started Home page title test ****
+12/16/2019 07:40:50 AM: INFO: ****Opening URL****
+12/16/2019 07:40:50 AM: INFO: ****Started Login Test****
+12/16/2019 07:41:00 AM: INFO: **** Home page title test passed ****
+12/16/2019 07:41:02 AM: INFO: ****Login test passed ****
+12/17/2019 07:17:37 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:19:06 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:20:34 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:24:00 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:24:19 AM: INFO: *** Passed ****
+12/17/2019 07:24:26 AM: INFO: *** Passed ****
+12/17/2019 07:24:32 AM: INFO: *** Passed ****
+12/17/2019 07:24:38 AM: INFO: *** Passed ****
+12/17/2019 07:27:25 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:27:44 AM: INFO: *** Passed ****
+12/17/2019 07:27:52 AM: INFO: *** Passed ****
+12/17/2019 07:27:58 AM: INFO: *** Passed ****
+12/17/2019 07:28:04 AM: INFO: *** Passed ****
+12/17/2019 07:31:23 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:31:44 AM: INFO: **** passed ****
+12/17/2019 07:31:51 AM: INFO: **** passed ****
+12/17/2019 07:31:57 AM: INFO: **** passed ****
+12/17/2019 07:32:03 AM: INFO: **** passed ****
+12/17/2019 07:35:52 AM: INFO: ****Started Test_002_DDT_Login ****
+12/17/2019 07:36:12 AM: INFO: **** passed ****
+12/17/2019 07:36:19 AM: INFO: **** passed ****
+12/17/2019 07:36:25 AM: INFO: **** passed ****
+12/17/2019 07:36:31 AM: INFO: **** passed ****
+12/17/2019 07:39:04 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 07:39:04 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 07:39:22 AM: INFO: **** passed ****
+12/17/2019 07:39:30 AM: INFO: **** passed ****
+12/17/2019 07:39:36 AM: INFO: **** passed ****
+12/17/2019 07:39:41 AM: INFO: **** passed ****
+12/17/2019 07:41:45 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 07:41:45 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 07:42:05 AM: INFO: **** passed ****
+12/17/2019 07:42:13 AM: INFO: **** passed ****
+12/17/2019 07:42:19 AM: INFO: **** passed ****
+12/17/2019 07:42:25 AM: INFO: **** passed ****
+12/17/2019 07:44:47 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 07:44:47 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 07:45:05 AM: INFO: **** passed ****
+12/17/2019 07:45:13 AM: INFO: **** passed ****
+12/17/2019 07:45:19 AM: INFO: **** passed ****
+12/17/2019 07:45:24 AM: INFO: **** passed ****
+12/17/2019 08:00:25 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 08:00:25 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 08:00:48 AM: INFO: **** passed ****
+12/17/2019 08:00:55 AM: INFO: **** passed ****
+12/17/2019 08:01:01 AM: INFO: **** passed ****
+12/17/2019 08:01:06 AM: INFO: **** passed ****
+12/17/2019 08:15:51 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 08:15:51 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 08:16:08 AM: INFO: **** passed ****
+12/17/2019 08:16:16 AM: INFO: **** passed ****
+12/17/2019 08:16:22 AM: INFO: **** passed ****
+12/17/2019 08:16:28 AM: INFO: **** passed ****
+12/17/2019 08:17:29 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 08:17:29 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 08:17:46 AM: INFO: **** passed ****
+12/17/2019 08:17:54 AM: INFO: **** passed ****
+12/17/2019 08:18:00 AM: INFO: **** passed ****
+12/17/2019 08:18:06 AM: INFO: **** passed ****
+12/17/2019 08:18:06 AM: INFO: ******* DDT Login test passed **********
+12/17/2019 08:18:10 AM: INFO: ******* End of Login DDT Test **********
+12/17/2019 08:18:10 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+12/17/2019 08:19:03 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/17/2019 08:19:03 AM: INFO: ******* Starting Login DDT Test **********
+12/17/2019 08:19:19 AM: INFO: **** passed ****
+12/17/2019 08:19:26 AM: INFO: **** passed ****
+12/17/2019 08:19:32 AM: INFO: **** passed ****
+12/17/2019 08:19:37 AM: INFO: **** passed ****
+12/17/2019 08:19:37 AM: INFO: ******* DDT Login test passed **********
+12/17/2019 08:19:38 AM: INFO: ******* End of Login DDT Test **********
+12/17/2019 08:19:38 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+12/18/2019 06:36:33 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/18/2019 06:36:33 AM: INFO: ******* Starting Login DDT Test **********
+12/18/2019 06:36:51 AM: INFO: **** passed ****
+12/18/2019 06:36:58 AM: INFO: **** passed ****
+12/18/2019 06:37:04 AM: INFO: **** passed ****
+12/18/2019 06:37:11 AM: INFO: **** passed ****
+12/18/2019 06:37:11 AM: INFO: ******* DDT Login test passed **********
+12/18/2019 06:37:11 AM: INFO: ******* End of Login DDT Test **********
+12/18/2019 06:37:11 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+12/18/2019 07:10:19 AM: INFO: ************* Test_003_AddCustomer **********
+12/18/2019 07:10:32 AM: INFO: ************* Login succesful **********
+12/18/2019 07:10:32 AM: INFO: ******* Starting Add Customer Test **********
+12/18/2019 07:10:36 AM: INFO: ************* Providing customer info **********
+12/18/2019 07:10:49 AM: INFO: ************* Saving customer info **********
+12/18/2019 07:10:49 AM: INFO: ********* Add customer validation started *****************
+12/18/2019 07:10:49 AM: INFO: ********* Add customer Test Passed *********
+12/18/2019 07:10:53 AM: INFO: ******* Ending Add customer test **********
+12/18/2019 07:29:33 AM: INFO: ************* SearchCustomerByEmail_004 **********
+12/18/2019 07:29:47 AM: INFO: ************* Login succesful **********
+12/18/2019 07:29:47 AM: INFO: ******* Starting Search Customer By Email **********
+12/18/2019 07:29:51 AM: INFO: ************* searching customer by emailID **********
+12/18/2019 07:29:56 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/18/2019 07:34:25 AM: INFO: ************* SearchCustomerByName_005 **********
+12/18/2019 07:34:39 AM: INFO: ************* Login succesful **********
+12/18/2019 07:34:39 AM: INFO: ******* Starting Search Customer By Name **********
+12/18/2019 07:34:44 AM: INFO: ************* searching customer by Name **********
+12/18/2019 07:34:50 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/18/2019 07:37:00 AM: INFO: ************* Test_003_AddCustomer **********
+12/18/2019 07:37:15 AM: INFO: ************* Login succesful **********
+12/18/2019 07:37:15 AM: INFO: ******* Starting Add Customer Test **********
+12/18/2019 07:37:20 AM: INFO: ************* Providing customer info **********
+12/18/2019 07:37:32 AM: INFO: ************* Saving customer info **********
+12/18/2019 07:37:32 AM: INFO: ********* Add customer validation started *****************
+12/18/2019 07:37:32 AM: INFO: ********* Add customer Test Passed *********
+12/18/2019 07:37:36 AM: INFO: ******* Ending Add customer test **********
+12/18/2019 07:37:41 AM: INFO: *************** Test_001_Login *****************
+12/18/2019 07:37:41 AM: INFO: ****Started Home page title test ****
+12/18/2019 07:37:41 AM: INFO: ****Opening URL****
+12/18/2019 07:37:46 AM: INFO: **** Home page title test passed ****
+12/18/2019 07:37:51 AM: INFO: ****Started Login Test****
+12/18/2019 07:37:58 AM: INFO: ****Login test passed ****
+12/18/2019 07:38:07 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+12/18/2019 07:38:07 AM: INFO: ******* Starting Login DDT Test **********
+12/18/2019 07:38:26 AM: INFO: **** passed ****
+12/18/2019 07:38:33 AM: INFO: **** passed ****
+12/18/2019 07:38:39 AM: INFO: **** passed ****
+12/18/2019 07:38:45 AM: INFO: **** passed ****
+12/18/2019 07:38:45 AM: INFO: ******* DDT Login test passed **********
+12/18/2019 07:38:45 AM: INFO: ******* End of Login DDT Test **********
+12/18/2019 07:38:45 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+12/18/2019 07:38:50 AM: INFO: ************* SearchCustomerByEmail_004 **********
+12/18/2019 07:39:03 AM: INFO: ************* Login succesful **********
+12/18/2019 07:39:03 AM: INFO: ******* Starting Search Customer By Email **********
+12/18/2019 07:39:05 AM: INFO: ************* searching customer by emailID **********
+12/18/2019 07:39:10 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/18/2019 07:39:16 AM: INFO: ************* SearchCustomerByName_005 **********
+12/18/2019 07:39:29 AM: INFO: ************* Login succesful **********
+12/18/2019 07:39:29 AM: INFO: ******* Starting Search Customer By Name **********
+12/18/2019 07:39:34 AM: INFO: ************* searching customer by Name **********
+12/18/2019 07:39:40 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/19/2019 06:44:11 AM: INFO: ************* Test_003_AddCustomer **********
+12/19/2019 06:44:24 AM: INFO: ************* Login succesful **********
+12/19/2019 06:44:24 AM: INFO: ******* Starting Add Customer Test **********
+12/19/2019 06:44:27 AM: INFO: ************* Providing customer info **********
+12/19/2019 06:44:40 AM: INFO: ************* Saving customer info **********
+12/19/2019 06:44:40 AM: INFO: ********* Add customer validation started *****************
+12/19/2019 06:44:40 AM: INFO: ********* Add customer Test Passed *********
+12/19/2019 06:44:41 AM: INFO: ******* Ending Add customer test **********
+12/19/2019 06:44:46 AM: INFO: ****Started Login Test****
+12/19/2019 06:44:54 AM: INFO: ****Login test passed ****
+12/19/2019 06:47:04 AM: INFO: ************* Test_003_AddCustomer **********
+12/19/2019 06:47:17 AM: INFO: ************* Login succesful **********
+12/19/2019 06:47:17 AM: INFO: ******* Starting Add Customer Test **********
+12/19/2019 06:47:22 AM: INFO: ************* Providing customer info **********
+12/19/2019 06:47:34 AM: INFO: ************* Saving customer info **********
+12/19/2019 06:47:34 AM: INFO: ********* Add customer validation started *****************
+12/19/2019 06:47:35 AM: INFO: ********* Add customer Test Passed *********
+12/19/2019 06:47:35 AM: INFO: ******* Ending Add customer test **********
+12/19/2019 06:47:40 AM: INFO: ****Started Login Test****
+12/19/2019 06:47:49 AM: INFO: ****Login test passed ****
+12/19/2019 06:51:45 AM: INFO: ************* Test_003_AddCustomer **********
+12/19/2019 06:51:58 AM: INFO: ************* Login succesful **********
+12/19/2019 06:51:58 AM: INFO: ******* Starting Add Customer Test **********
+12/19/2019 06:52:01 AM: INFO: ************* Providing customer info **********
+12/19/2019 06:52:13 AM: INFO: ************* Saving customer info **********
+12/19/2019 06:52:13 AM: INFO: ********* Add customer validation started *****************
+12/19/2019 06:52:49 AM: INFO: ********* Add customer Test Passed *********
+12/19/2019 06:52:49 AM: INFO: ******* Ending Add customer test **********
+12/19/2019 06:52:54 AM: INFO: ****Started Login Test****
+12/19/2019 06:53:00 AM: INFO: ****Login test passed ****
