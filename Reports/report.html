@@ -241,7 +241,7 @@ function filter_table(elem) {
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 20-Dec-2019 at 06:19:04 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
+    <p>Report generated on 20-Dec-2019 at 06:23:51 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.0.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -263,8 +263,8 @@ function filter_table(elem) {
         <td>Tester</td>
         <td>Pavan</td></tr></table>
     <h2>Summary</h2>
-    <p>0 tests ran in 0.43 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">5 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>2 tests ran in 54.74 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -275,48 +275,29 @@ function filter_table(elem) {
           <th>Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="error results-table-row">
+      <tbody class="passed results-table-row">
         <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">test_addCustomer.py::collect</td>
-          <td class="col-duration">0.00</td>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
+          <td class="col-duration">34.44</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">ImportError while importing test module &#x27;C:\Users\admin\PycharmProjects\nopCommerceProject\testCases\test_addCustomer.py&#x27;.<br/>Hint: make sure your test modules/packages have valid Python names.<br/>Traceback:<br/>testCases\test_addCustomer.py:3: in &lt;module&gt;<br/>    from pageObjects.LoginPage import LoginPage<br/><span class="error">E   ModuleNotFoundError: No module named &#x27;pageObjects&#x27;</span><br/></div></td></tr></tbody>
-      <tbody class="error results-table-row">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m root:test_addCustomer.py:19 ************* Test_003_AddCustomer **********
+[32mINFO    [0m root:test_addCustomer.py:28 ************* Login succesful **********
+[32mINFO    [0m root:test_addCustomer.py:30 ******* Starting Add Customer Test **********
+[32mINFO    [0m root:test_addCustomer.py:38 ************* Providing customer info **********
+[32mINFO    [0m root:test_addCustomer.py:53 ************* Saving customer info **********
+[32mINFO    [0m root:test_addCustomer.py:55 ********* Add customer validation started *****************
+[32mINFO    [0m root:test_addCustomer.py:62 ********* Add customer Test Passed *********
+[32mINFO    [0m root:test_addCustomer.py:69 ******* Ending Add customer test **********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
         <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">test_login.py::collect</td>
-          <td class="col-duration">0.00</td>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login.py::Test_001_Login::test_login</td>
+          <td class="col-duration">7.14</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">ImportError while importing test module &#x27;C:\Users\admin\PycharmProjects\nopCommerceProject\testCases\test_login.py&#x27;.<br/>Hint: make sure your test modules/packages have valid Python names.<br/>Traceback:<br/>testCases\test_login.py:3: in &lt;module&gt;<br/>    from pageObjects.LoginPage import LoginPage<br/><span class="error">E   ModuleNotFoundError: No module named &#x27;pageObjects&#x27;</span><br/></div></td></tr></tbody>
-      <tbody class="error results-table-row">
-        <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">test_login_ddt.py::collect</td>
-          <td class="col-duration">0.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log">ImportError while importing test module &#x27;C:\Users\admin\PycharmProjects\nopCommerceProject\testCases\test_login_ddt.py&#x27;.<br/>Hint: make sure your test modules/packages have valid Python names.<br/>Traceback:<br/>testCases\test_login_ddt.py:2: in &lt;module&gt;<br/>    from pageObjects.LoginPage import LoginPage<br/><span class="error">E   ModuleNotFoundError: No module named &#x27;pageObjects&#x27;</span><br/></div></td></tr></tbody>
-      <tbody class="error results-table-row">
-        <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">test_searchCustomerByEmail.py::collect</td>
-          <td class="col-duration">0.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log">ImportError while importing test module &#x27;C:\Users\admin\PycharmProjects\nopCommerceProject\testCases\test_searchCustomerByEmail.py&#x27;.<br/>Hint: make sure your test modules/packages have valid Python names.<br/>Traceback:<br/>testCases\test_searchCustomerByEmail.py:3: in &lt;module&gt;<br/>    from pageObjects.LoginPage import LoginPage<br/><span class="error">E   ModuleNotFoundError: No module named &#x27;pageObjects&#x27;</span><br/></div></td></tr></tbody>
-      <tbody class="error results-table-row">
-        <tr>
-          <td class="col-result">Error</td>
-          <td class="col-name">test_searchCustomerByName.py::collect</td>
-          <td class="col-duration">0.00</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log">ImportError while importing test module &#x27;C:\Users\admin\PycharmProjects\nopCommerceProject\testCases\test_searchCustomerByName.py&#x27;.<br/>Hint: make sure your test modules/packages have valid Python names.<br/>Traceback:<br/>testCases\test_searchCustomerByName.py:3: in &lt;module&gt;<br/>    from pageObjects.LoginPage import LoginPage<br/><span class="error">E   ModuleNotFoundError: No module named &#x27;pageObjects&#x27;</span><br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m root:test_login.py:36 ****Started Login Test****
+[32mINFO    [0m root:test_login.py:45 ****Login test passed ****<br/></div></td></tr></tbody></table></body></html>

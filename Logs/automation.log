@@ -201,3 +201,13 @@
 12/19/2019 06:52:49 AM: INFO: ******* Ending Add customer test **********
 12/19/2019 06:52:54 AM: INFO: ****Started Login Test****
 12/19/2019 06:53:00 AM: INFO: ****Login test passed ****
+12/20/2019 06:23:04 AM: INFO: ************* Test_003_AddCustomer **********
+12/20/2019 06:23:18 AM: INFO: ************* Login succesful **********
+12/20/2019 06:23:18 AM: INFO: ******* Starting Add Customer Test **********
+12/20/2019 06:23:26 AM: INFO: ************* Providing customer info **********
+12/20/2019 06:23:38 AM: INFO: ************* Saving customer info **********
+12/20/2019 06:23:38 AM: INFO: ********* Add customer validation started *****************
+12/20/2019 06:23:39 AM: INFO: ********* Add customer Test Passed *********
+12/20/2019 06:23:39 AM: INFO: ******* Ending Add customer test **********
+12/20/2019 06:23:44 AM: INFO: ****Started Login Test****
+12/20/2019 06:23:51 AM: INFO: ****Login test passed ****
